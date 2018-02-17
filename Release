@@ -1,0 +1,8 @@
+Origin: ByteChunk's Repo
+Label: ByteChunk's Repo
+Suite: stable
+Version: 1.1
+Codename: bytechunk
+Architectures: iphoneos-arm
+Components: main
+Description: ByteChunk's Repo!
